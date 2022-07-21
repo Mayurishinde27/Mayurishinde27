@@ -21,11 +21,20 @@
 </a>
 
 </div>
-<div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayurishinde27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mayurishinde27's Github Stats">
+<div align="center">
  
+  <h1>Contribution Activity</h1>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayurishinde27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mayurishinde27's Github Stats" height="185" />
+  
+<br>
+<br>
+ 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mayurishinde27&theme=github-dark-blue" alt="GitHub Streak Stats" height="175" />
+
 </div>
 
-![snake gif](https://github.com/Mayurishinde27/Mayurishinde27/blob/output/github-contribution-grid-snake.svg)
 
+
+<img align="center" src="https://github.com/Mayurishinde27/Mayurishinde27/blob/output/github-contribution-grid-snake.svg" alt="snake gif" height="250" />
