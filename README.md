@@ -2,10 +2,13 @@
 
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Mayurishinde27/Mayurishinde27/blob/main/Images/Hi.gif" width="30px"></h2>
+
 </div>
 
 <div align= "center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=When+in+doubt%2C+use+brute+force;Computer+Science+Undergrad;NIT-A+24'+%7C%7C+Open+Source+Enthusiast;Data+Structure+and+Algorithms)](https://git.io/typing-svg)
+  
 <img src="https://user-images.githubusercontent.com/85113641/180250219-13205620-5814-4402-a1c3-70a497f90bd7.png">
 
 </div>
