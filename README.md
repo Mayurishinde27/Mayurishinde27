@@ -7,7 +7,11 @@
 
 <div align= "center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=When+in+doubt%2C+use+brute+force;Computer+Science+Undergrad;NIT-A+24'+%7C%7C+Open+Source+Enthusiast;Data+Structure+and+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&width=406&lines=When+in+doubt%2C+use+brute+force;Computer+Science+Undergrad;NIT-A+24'+%7C%7C+Open+Source+Enthusiast;Data+Structure+and+Algorithms)](https://git.io/typing-svg)
+  
+</div>
+  
+<div align= "center">
   
 <img src="https://user-images.githubusercontent.com/85113641/180250219-13205620-5814-4402-a1c3-70a497f90bd7.png">
 
