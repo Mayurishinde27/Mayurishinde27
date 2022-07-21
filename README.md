@@ -4,6 +4,11 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Mayurishinde27/Mayurishinde27/blob/main/Images/Hi.gif" width="30px"></h2>
 </div>
 
+<div align= "center">
+
+<img src="https://user-images.githubusercontent.com/85113641/180250219-13205620-5814-4402-a1c3-70a497f90bd7.png">
+
+</div>
 <div align="center" width="50">
 
 <img src="https://github.com/Mayurishinde27/Mayurishinde27/blob/main/Images/animation.gif" width="300"/>
@@ -22,6 +27,11 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
+<div align= "center">
+
+<img src="https://user-images.githubusercontent.com/85113641/180250219-13205620-5814-4402-a1c3-70a497f90bd7.png">
+
+</div>
 
 <Br>
 <h2 align="center">Get in Touch! 📬</h2>
