@@ -33,12 +33,37 @@
 
 </div>
 
+<br>
+
+
+
+<div align = "center">
+
+
+  <h2 align="center">Languages and Tools 🛠</h2>
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+</div>
+
+
 <Br>
 <h2 align="center">Get in Touch! 📬</h2>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/mayurishinde03/" target="blank"><img align="center" src="https://img.shields.io/badge/mayurishinde03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:mayuricse.stud@nita.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/mayuricse.stud@nita.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Mayurishinde27" target="blank"><img align="center" src="https://img.shields.io/badge/Mayurishinde27-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+  
+
   
 <Br>
 
