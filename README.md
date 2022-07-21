@@ -23,7 +23,14 @@
 </p>
 
 
-
+<Br>
+<h2 align="center">Get in Touch! 📬</h2>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/mayurishinde03/" target="blank"><img align="center" src="https://img.shields.io/badge/mayurishinde03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:mayuricse.stud@nita.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/mayuricse.stud@nita.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Mayurishinde27" target="blank"><img align="center" src="https://img.shields.io/badge/Mayurishinde27-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+  
+<Br>
 
 <div align="center">
  
