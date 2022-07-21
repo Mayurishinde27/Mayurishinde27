@@ -39,8 +39,9 @@
 
 <div align = "center">
 
-
-  <h2 align="center">Languages and Tools 🛠</h2>
+# 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+<br>
+  
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -57,7 +58,7 @@
 
 
 <Br>
-<h2 align="center">Get in Touch! 📬</h2>
+<h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/mayurishinde03/" target="blank"><img align="center" src="https://img.shields.io/badge/mayurishinde03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:mayuricse.stud@nita.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/mayuricse.stud@nita.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Mayurishinde27" target="blank"><img align="center" src="https://img.shields.io/badge/Mayurishinde27-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -85,3 +86,17 @@
 
 
 <img align="center" src="https://github.com/Mayurishinde27/Mayurishinde27/blob/output/github-contribution-grid-snake.svg" alt="snake gif" height="250" />
+
+  
+ 
+ <div align= "center">
+
+<img src="https://user-images.githubusercontent.com/85113641/180250219-13205620-5814-4402-a1c3-70a497f90bd7.png">
+
+</div> 
+
+<div align="center">
+             
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<div>
