@@ -81,9 +81,8 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="100px" alt="GitHub-Status"/>&nbsp;<i><b><h1>Contribution Activity</h1></b></i>
  
 
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayurishinde27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mayurishinde27's Github Stats" height="185" />
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurishinde27&show_icons=true&theme=radical&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mayurishinde27's Github Stats" height="185" />
+
 <br>
 <br>
  
