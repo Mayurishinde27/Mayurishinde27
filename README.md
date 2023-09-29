@@ -103,7 +103,7 @@
 
 <img align="center" src="https://github.com/Mayurishinde27/Mayurishinde27/blob/output/github-contribution-grid-snake.svg" alt="snake gif" height="250" />
 
-  
+<img src="https://raw.githubusercontent.com/Mayurishinde27/Mayurishinde27/output/snake.svg" alt="Snake animation" />
  
  <div align= "center">
 
